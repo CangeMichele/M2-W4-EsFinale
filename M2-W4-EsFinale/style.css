@@ -1,0 +1,42 @@
+body {
+    background-color: white;
+    font-family: 'Montserrat Montserrat Altern', sans-serif;
+    display: flex;
+    justify-content: center;
+}
+
+#container {
+    background-color: aliceblue;
+    border: solid 2px #222;
+    margin: 50px 100px;
+    border-radius: 15px;
+    padding: 5px 20px;
+    min-height: 200px;
+    min-width: 652px;
+
+
+}
+
+#divInput {
+    padding-top: 10px;
+    text-align: center;
+}
+
+input {
+    background-color: white;
+}
+
+#container h1 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+#divLine {
+    border: 3px solid #222;
+    margin-top: 10px;
+}
+
+#searchResult h2 {
+    font-weight: 600;
+    padding-bottom: 20px;
+}
